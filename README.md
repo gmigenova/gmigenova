@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmigenova
 - 👀 I’m interested in programming and hacking
-- 🌱 I’m currently learning flutter , .net core
+- 🌱 I’m currently learning flutter , .net core, Python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ..
 
